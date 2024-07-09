@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-I/usr/include",
+      "-I.",
+      "-I./imgui",
+      "-c",
+      "-o",
+      "Lab2-imgui.o",
+      "Lab2-imgui.cpp"
+    ],
+    "directory": "/home/tasos/projects/ComputerGraphicsLabs/Lab2",
+    "file": "/home/tasos/projects/ComputerGraphicsLabs/Lab2/Lab2-imgui.cpp",
+    "output": "/home/tasos/projects/ComputerGraphicsLabs/Lab2/Lab2-imgui.o"
+  }
+]

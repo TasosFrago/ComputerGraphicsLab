@@ -1,0 +1,34 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-I/usr/include",
+      "-I.",
+      "-c",
+      "-o",
+      "stb_image/stb_image.o",
+      "stb_image/stb_image.cpp"
+    ],
+    "directory": "/home/tasos/projects/ComputerGraphicsLabs/Lab7",
+    "file": "/home/tasos/projects/ComputerGraphicsLabs/Lab7/stb_image/stb_image.cpp",
+    "output": "/home/tasos/projects/ComputerGraphicsLabs/Lab7/stb_image/stb_image.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-I/usr/include",
+      "-I.",
+      "-c",
+      "-o",
+      "Lab7.o",
+      "Lab7.cpp"
+    ],
+    "directory": "/home/tasos/projects/ComputerGraphicsLabs/Lab7",
+    "file": "/home/tasos/projects/ComputerGraphicsLabs/Lab7/Lab7.cpp",
+    "output": "/home/tasos/projects/ComputerGraphicsLabs/Lab7/Lab7.o"
+  }
+]

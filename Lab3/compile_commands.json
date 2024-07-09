@@ -1,0 +1,138 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-I/usr/include",
+      "-I.",
+      "-I./imgui",
+      "-c",
+      "-o",
+      "imgui/imgui_tables.o",
+      "imgui/imgui_tables.cpp"
+    ],
+    "directory": "/home/tasos/projects/ComputerGraphicsLabs/Lab3",
+    "file": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/imgui_tables.cpp",
+    "output": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/imgui_tables.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-I/usr/include",
+      "-I.",
+      "-I./imgui",
+      "-c",
+      "-o",
+      "imgui/imgui_draw.o",
+      "imgui/imgui_draw.cpp"
+    ],
+    "directory": "/home/tasos/projects/ComputerGraphicsLabs/Lab3",
+    "file": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/imgui_draw.cpp",
+    "output": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/imgui_draw.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-I/usr/include",
+      "-I.",
+      "-I./imgui",
+      "-c",
+      "-o",
+      "imgui/imgui_demo.o",
+      "imgui/imgui_demo.cpp"
+    ],
+    "directory": "/home/tasos/projects/ComputerGraphicsLabs/Lab3",
+    "file": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/imgui_demo.cpp",
+    "output": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/imgui_demo.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-I/usr/include",
+      "-I.",
+      "-I./imgui",
+      "-c",
+      "-o",
+      "Lab3-imgui.o",
+      "Lab3-imgui.cpp"
+    ],
+    "directory": "/home/tasos/projects/ComputerGraphicsLabs/Lab3",
+    "file": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/Lab3-imgui.cpp",
+    "output": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/Lab3-imgui.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-I/usr/include",
+      "-I.",
+      "-I./imgui",
+      "-c",
+      "-o",
+      "imgui/imgui_widgets.o",
+      "imgui/imgui_widgets.cpp"
+    ],
+    "directory": "/home/tasos/projects/ComputerGraphicsLabs/Lab3",
+    "file": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/imgui_widgets.cpp",
+    "output": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/imgui_widgets.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-I/usr/include",
+      "-I.",
+      "-I./imgui",
+      "-c",
+      "-o",
+      "imgui/imgui.o",
+      "imgui/imgui.cpp"
+    ],
+    "directory": "/home/tasos/projects/ComputerGraphicsLabs/Lab3",
+    "file": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/imgui.cpp",
+    "output": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/imgui.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-I/usr/include",
+      "-I.",
+      "-I./imgui",
+      "-c",
+      "-o",
+      "imgui/backends/imgui_impl_glfw.o",
+      "imgui/backends/imgui_impl_glfw.cpp"
+    ],
+    "directory": "/home/tasos/projects/ComputerGraphicsLabs/Lab3",
+    "file": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/backends/imgui_impl_glfw.cpp",
+    "output": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/backends/imgui_impl_glfw.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-I/usr/include",
+      "-I.",
+      "-I./imgui",
+      "-c",
+      "-o",
+      "imgui/backends/imgui_impl_opengl3.o",
+      "imgui/backends/imgui_impl_opengl3.cpp"
+    ],
+    "directory": "/home/tasos/projects/ComputerGraphicsLabs/Lab3",
+    "file": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/backends/imgui_impl_opengl3.cpp",
+    "output": "/home/tasos/projects/ComputerGraphicsLabs/Lab3/imgui/backends/imgui_impl_opengl3.o"
+  }
+]

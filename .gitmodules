@@ -1,3 +1,6 @@
 [submodule "Lab2/imgui"]
 	path = Lab2/imgui
 	url = git@github.com:ocornut/imgui.git
+[submodule "Lab3/imgui"]
+	path = Lab3/imgui
+	url = git@github.com:ocornut/imgui.git
